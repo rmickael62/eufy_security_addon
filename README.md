@@ -2,4 +2,4 @@
 
  Required Add-On for eufy_security integration
  
- https://github.com/fuatakgun/eufy_security
+ https://github.com/rmickael62/eufy_security
